@@ -1,3 +1,3 @@
-##APEB Traning
+## APEB Traning
  `npm install && npm run test
  `
